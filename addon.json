@@ -1,0 +1,9 @@
+{
+	"title": "ACF Version Check Blocker",
+	"type":	"ServerContent",
+	"tags":	["build", "fun"],
+	"ignore": [
+		".git*",
+		"README.md"
+	]
+}
