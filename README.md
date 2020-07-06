@@ -1,4 +1,4 @@
-# Version check blocker for ACF
+# ACF Version Check Blocker
 ## No more ugly messages in the chat!
 
 Suppresses version checks for *[ACF](https://github.com/nrlulz/ACF), [ACF-Missiles](https://github.com/Bubbus/ACF-Missiles), [ACF-3](https://github.com/Stooberton/ACF-3) and [ACF-3-Missiles](https://github.com/TwistedTail/ACF-3-Missiles)*.
